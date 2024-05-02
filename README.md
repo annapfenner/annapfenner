@@ -1,18 +1,16 @@
 
-### Hi there 👋
+### Hi there! 👋
 
 ## About Me
 
-- 🔭 I’m currently working on a data project focused on education.
-- 🌱 I’m currently reading "Practical Statistics for Data Scientists" by Peter Bruce & Andrew Bruce and "The Women" by Kristin Hannah.
-- 💬 I have two fur babies!
-- 🏞️ Moses Lake --> Seattle. I grew up going to Seahawks games and knew Seattle was my future home. 
-- 🏃‍♂️ Ask me about the last time I tried to run a marathon but forgot my shoes in my friend's car!
+- 🔭 Currently, I'm immersed in a data project centered around education.
+- 🌱 Engrossed in "Practical Statistics for Data Scientists" by Peter Bruce & Andrew Bruce and "The Women" by Kristin Hannah.
+- 💬 Proud parent of two adorable fur babies! Their daily walks are the highlight of my day.
+- 🏞️ From Moses Lake to Seattle, I was raised on Seahawks games and knew Seattle was destined to be my home.
+- 🏃‍♂️ Ask me about the last time I attempted to run a marathon but left my shoes in my friend's car!
 
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/annapfenner/) or drop me an email at [annapfenner@gmail.com](mailto:annapfenner@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/annapfenner/) or shoot me an email at [annapfenner@gmail.com](mailto:annapfenner@gmail.com).
 
 ## Current Projects
 
-Check out my [current projects](https://github.com/annapfenner/annapfenner.github.io) to see what I'm currently working on!
-
+Curious about what I'm currently working on? Check out my [current projects](https://github.com/annapfenner/annapfenner.github.io) to find out!
