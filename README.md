@@ -1,16 +1,18 @@
+
 ### Hi there 👋
 
-<!--
-**annapfenner/annapfenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a data project focused on education.
+- 🌱 I’m currently reading "Practical Statistics for Data Scientists" by Peter Bruce & Andrew Bruce and "The Women" by Kristin Hannah.
+- 💬 I have two fur babies!
+- 🏞️ Moses Lake --> Seattle. I grew up going to Seahawks games and knew Seattle was my future home. 
+- 🏃‍♂️ Ask me about the last time I tried to run a marathon but forgot my shoes in my friend's car!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/annapfenner/) or drop me an email at [annapfenner@gmail.com](mailto:annapfenner@gmail.com).
+
+## Current Projects
+
+Check out my [current projects](https://github.com/annapfenner/annapfenner.github.io) to see what I'm currently working on!
+
